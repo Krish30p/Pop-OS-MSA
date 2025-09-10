@@ -188,7 +188,7 @@ export default function Page() {
         />
       </div>
 
-      {/* Right Side - Text */}
+      
       <div className="space-y-4">
         <h2 className="text-4xl font-bold">Compatibility</h2>
         <p className="text-lg text-gray-600">
@@ -209,7 +209,7 @@ export default function Page() {
     
 {/* Keep Your Computer Secure */}
 <div className="grid grid-cols-1 md:grid-cols-2 items-center gap-8 p-8">
-      {/* Left Side - Text */}
+     
       <div className="space-y-4">
         <h2 className="text-4xl font-bold">Keep Your Computer Secure</h2>
         <p className="text-lg text-gray-600">
@@ -227,7 +227,7 @@ export default function Page() {
         </a>
       </div>
 
-      {/* Right Side - Image */}
+     
       <div className="flex justify-center">
         <img
           src="https://cdn11.bigcommerce.com/s-pywjnxrcr2/images/stencil/original/image-manager/security.png?t=1741216101"
@@ -241,7 +241,7 @@ export default function Page() {
 {/* Customization */}
 
      <div className="grid grid-cols-1 md:grid-cols-2 items-center gap-8 p-8">
-      {/* Left Side - Image */}
+     
       <div className="flex justify-center">
         <img
           src="https://cdn11.bigcommerce.com/s-pywjnxrcr2/images/stencil/original/image-manager/hyper-customization.png?t=1741216245"
@@ -250,7 +250,7 @@ export default function Page() {
         />
       </div>
 
-      {/* Right Side - Text */}
+    
       <div className="space-y-4">
         <h2 className="text-4xl font-bold">Customization</h2>
         <p className="text-lg text-gray-600">
@@ -269,7 +269,7 @@ export default function Page() {
 
 <div className="grid grid-cols-1 md:grid-cols-3 gap-8 p-8 text-center">
       
-      {/* Left - Hybrid Graphics */}
+      {/* Hybrid Graphics */}
       <div className="space-y-4">
         <img
           src="https://cdn11.bigcommerce.com/s-pywjnxrcr2/images/stencil/original/image-manager/hybrid-graphics-pop.jpg?t=1740592366"
@@ -283,7 +283,7 @@ export default function Page() {
         </p>
       </div>
 
-      {/* Middle - Gaming */}
+      {/* Gaming */}
       <div className="space-y-4">
         <img
           src="https://cdn11.bigcommerce.com/s-pywjnxrcr2/images/stencil/original/image-manager/gaming-pop.jpg?t=1740592418"
@@ -297,7 +297,7 @@ export default function Page() {
         </p>
       </div>
 
-      {/* Right - Do Not Disturb */}
+      {/* Do Not Disturb */}
       <div className="space-y-4">
         <img
           src="https://cdn11.bigcommerce.com/s-pywjnxrcr2/images/stencil/original/image-manager/dnd-pop.jpg?t=1740593051"
@@ -323,7 +323,7 @@ export default function Page() {
 
 <div className="grid grid-cols-1 md:grid-cols-4 gap-8 p-8 text-center">
       
-      {/* 1 - Laptops */}
+      {/*Laptops */}
       <div className="space-y-4 p-6 rounded-2xl shadow-lg" style={{ backgroundColor: "rgb(230, 246, 246)" }}>
         <img
           src="https://cdn11.bigcommerce.com/s-pywjnxrcr2/images/stencil/original/image-manager/detail-laptop.jpg?t=1741300679"
@@ -344,7 +344,7 @@ export default function Page() {
         </a>
       </div>
 
-      {/* 2 - Desktops */}
+      {/*Desktops */}
       <div className="space-y-4 p-6 rounded-2xl shadow-lg" style={{ backgroundColor: "rgb(230, 246, 246)" }}>
         <img
           src="https://cdn11.bigcommerce.com/s-pywjnxrcr2/images/stencil/original/image-manager/detail-desktop.jpg?t=1741300712"
@@ -365,7 +365,7 @@ export default function Page() {
         </a>
       </div>
 
-      {/* 3 - Workstations */}
+      {/*Workstations */}
       <div className="space-y-4 p-6 rounded-2xl shadow-lg" style={{ backgroundColor: "rgb(230, 246, 246)" }}>
         <img
           src="https://cdn11.bigcommerce.com/s-pywjnxrcr2/images/stencil/original/image-manager/detail-workstation.jpg?t=1741300626"
@@ -386,7 +386,7 @@ export default function Page() {
         </a>
       </div>
 
-      {/* 4 - Keyboards */}
+      {/*Keyboards */}
       <div className="space-y-4 p-6 rounded-2xl shadow-lg" style={{ backgroundColor: "rgb(230, 246, 246)" }}>
         <img
           src="https://cdn11.bigcommerce.com/s-pywjnxrcr2/images/stencil/original/image-manager/detail-keyboard.jpg?t=1741300741"
@@ -463,12 +463,12 @@ export default function Page() {
 </div>
 <br /><br />
 
-{/* Proud Advocates for Open Source */}
+
 <div className="text-center ">Proud Advocates for Open Source</div>
 <div className="text-center text-4xl">ABOUT SYSTEM76</div>
 
  <div className="grid grid-cols-1 md:grid-cols-2 items-center gap-8 p-8">
-      {/* Left Side - Text */}
+     
       <div className="space-y-4">
         <h2 className="text-4xl font-bold">Built for User Freedom</h2>
         <p className="text-lg text-gray-600">
@@ -487,7 +487,7 @@ export default function Page() {
         </a>
       </div>
 
-      {/* Right Side - Image */}
+     
       <div className="flex justify-center">
         <img
           src="https://cdn11.bigcommerce.com/s-pywjnxrcr2/images/stencil/original/image-manager/manufacturing-sectioncontent-thelio-building.png?t=1722004652"
@@ -519,7 +519,7 @@ export default function Page() {
         </a>
       </div>
 
-      {/* Resource Links */}
+      
       <div className="grid grid-cols-1 md:grid-cols-3 gap-8 max-w-5xl mx-auto">
         {/* Pop Docs */}
         <a
@@ -573,12 +573,12 @@ export default function Page() {
 <br />
 <br />
 
-
+{/* links */}
 <footer className="bg-[rgb(87,79,74)] text-white px-8 py-12">
       <div className="grid grid-cols-1 md:grid-cols-3 gap-12 max-w-6xl mx-auto">
-        {/* Left Section - Links */}
+        
         <div className="grid grid-cols-2 gap-8">
-          {/* Left-left */}
+         
           <ul className="space-y-3">
             <li><a href="https://system76.com/contact/" className="hover:underline">Contact</a></li>
             <li><a href="https://system76.com/shipping/" className="hover:underline">Shipping</a></li>
@@ -586,7 +586,7 @@ export default function Page() {
             <li><a href="https://system76.com/about/" className="hover:underline">About Us</a></li>
           </ul>
 
-          {/* Left-right */}
+         
           <ul className="space-y-3">
             <li><a href="https://system76.com/sustainability/" className="hover:underline">Sustainability</a></li>
             <li><a href="https://system76.com/privacy-and-legal/" className="hover:underline">Privacy & Legal</a></li>
@@ -595,10 +595,10 @@ export default function Page() {
           </ul>
         </div>
 
-        {/* Middle Section - Empty (for spacing) */}
+        
         <div></div>
 
-        {/* Right Section - Subscribe + Socials */}
+        {/* subs */}
         <div className="space-y-4 text-left md:text-right">
           <h3 className="text-lg space-x-5-2 font-bold">Subscribe</h3>
           <p>Subscribe for updates on products, OS features, and promotions.</p>
@@ -616,7 +616,7 @@ export default function Page() {
             </button>
           </form>
 
-          {/* Social Icons */}
+         
           <div className="flex space-x-4 justify-start md:justify-end mt-4">
             <a href="https://www.linkedin.com/company/system76/" target="_blank" rel="noopener noreferrer" className="hover:underline">🔗 LinkedIn</a>
             <a href="https://github.com/pop-os" target="_blank" rel="noopener noreferrer" className="hover:underline">💻 GitHub</a>
@@ -626,7 +626,7 @@ export default function Page() {
         </div>
       </div>
 
-      {/* Bottom Center - Legal */}
+      {/*copyright*/}
       <div className="mt-12 text-center text-sm text-gray-300 space-y-2 max-w-4xl mx-auto">
         <p>Copyright © 2025 System76, Inc.</p>
         <p>* Financing issued by WebBank, member FDIC and serviced by Klarna. See terms.</p>
